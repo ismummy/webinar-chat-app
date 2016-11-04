@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "312631972255",
+    "firebase_url": "https://chatapp-bbc4c.firebaseio.com",
+    "project_id": "chatapp-bbc4c",
+    "storage_bucket": "chatapp-bbc4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312631972255:android:e4a5ddc2ebfdc69c",
+        "android_client_info": {
+          "package_name": "com.andela.stuternchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312631972255-3doketc11a8ln6ll11cc77r6mtoi2rf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andela.stuternchat",
+            "certificate_hash": "E1CE7F4E43A9129C4946EDBDBB1010655FAD24D0"
+          }
+        },
+        {
+          "client_id": "312631972255-n3c3ht5ghlmbg895hpmdlpeik7qujt78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQPT1ErcjFq1oVtDD3oyAhifTrvvjENHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312631972255-n3c3ht5ghlmbg895hpmdlpeik7qujt78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
